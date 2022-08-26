@@ -1,2 +1,2 @@
 # deep-divers-tools
-Tools for deep diviing of data.
+Tools for deep diving of data.
